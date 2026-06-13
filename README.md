@@ -1,4 +1,4 @@
-# Mini-Prod ML Challenge (Starter)
+# Mini-Prod ML 
 
 Héctor Rodrigo project, 2025-27-08
 
